@@ -34,10 +34,6 @@
 
 # Introdução
 
-```diff
-+ Tarefa 01:
-+ Tema do projeto e lista de Stakeholders
-```
 
 ## Problema
 
@@ -91,11 +87,11 @@
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+|Rogério Greco    |Secretário de Segurança Pública de Minas Gerais |Cliente |             |             |
+|Lucas Meira Duque|                 |               |             |             |
+|João Gabriel Mendonça|                 |               |             |             |
+|Nathália de Carvalho|                 |               |             |             |
+|Luís Campelo     |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
@@ -113,11 +109,11 @@
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+|Rogério Greco        |                        |               |                     |             |               |
+|Lucas Meira Duque    |                        |               |                     |             |               |
+|João Gabriel Mendonça|                        |               |                     |             |               |
+|Nathália de Carvalho |                        |               |                     |             |               |
+|Luís Campelo     |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |

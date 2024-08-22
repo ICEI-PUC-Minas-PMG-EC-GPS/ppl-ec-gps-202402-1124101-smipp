@@ -33,7 +33,9 @@
   - [Ferramentas](#ferramentas)
 
 # Introdução
+Utilizar reconhecimento facial e análise de dados comportamentais para identificar criminosos e assaltos em andamento. O objetivo do projeto é uma plataforma que possa ser utilizada por forças de segurança para melhorar a segurança pública.
 
+Possíveis funcionalidades e  recursos: Reconhecimento facial, Análise de Dados Comportamentais, Banco de dados de criminosos, Alertas e Notificações, Relatórios e análises, Identificação de pessoas desaparecidas(possibilidade tendo em vista a aplicação de reconhecimento facial)
 
 ## Problema
 

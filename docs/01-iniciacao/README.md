@@ -39,42 +39,27 @@ Possíveis funcionalidades e  recursos: Reconhecimento facial, Análise de Dados
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+O principal problema que este projeto visa resolver é a ineficiência na detecção e resposta a crimes em tempo real, a identificação tardia de criminosos, e a dificuldade em gerir e utilizar de forma eficaz os dados relacionados à segurança pública. 
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Objetivo Geral:
+Desenvolver uma plataforma integrada de reconhecimento facial e análise comportamental que permita às forças de segurança identificar e responder rapidamente a crimes em andamento, melhorar a gestão de dados criminais e auxiliar na localização de pessoas desaparecidas.
 
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Específicos:
 
+1. Implementar um sistema de reconhecimento facial capaz de identificar criminosos conhecidos e pessoas desaparecidas em tempo real, utilizando câmeras de vigilância existentes.
+2. Desenvolver um módulo de análise comportamental que detecte atividades suspeitas e alerte as forças de segurança antes que crimes sejam cometidos.
+3. Integrar um sistema de alertas e notificações em tempo real, permitindo uma comunicação rápida e eficaz entre as forças de segurança e outros stakeholders.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A construção desta plataforma é justificada pela necessidade crescente de ferramentas tecnológicas que possam melhorar a eficiência e a eficácia das operações de segurança pública. Com a criminalidade em alta, as forças de segurança necessitam de soluções que possam fornecer informações precisas e em tempo real, permitindo a identificação e a resposta imediata a crimes e atividades suspeitas.
 
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
+Além disso, a integração de tecnologias como o reconhecimento facial e a análise comportamental pode otimizar a utilização dos recursos de segurança, reduzindo o tempo e os custos envolvidos na identificação de criminosos e na resolução de crimes. A plataforma também terá um impacto significativo na localização de pessoas desaparecidas, um problema crítico que afeta muitas famílias e comunidades.
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
 
 # Partes Interessadas
 
@@ -89,14 +74,11 @@ Possíveis funcionalidades e  recursos: Reconhecimento facial, Análise de Dados
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|Rogério Greco    |Secretário de Segurança Pública de Minas Gerais |Cliente |             |             |
-|Lucas Meira Duque|                 |               |             |             |
-|João Gabriel Mendonça|                 |               |             |             |
-|Nathália de Carvalho|                 |               |             |             |
-|Luís Campelo     |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+|Rogério Greco    |Secretário de Segurança Pública de Minas Gerais |Cliente |rg@gmail.com|(31)91111-1111|
+|Lucas Meira Duque|Gerente de T.I.|Testes e depuração, liderança de projeto, gestão de riscos e segurança e gerenciamento de stakeholders|lmd@gmail.com|(31)92222-2222|
+|João Gabriel Mendonça|Analista de Sistemas do cliente|Coleta e análise de requisitos, prototipagem e validação, consultoria técnica, feedback e melhorias|jg@gmail.com|(31)93333-3333|
+|Nathália de Carvalho|Desenvolvedor|Desenvolvimento e implemetação de segurança do software|ndc@gmail.com|(31)94444-4444|
+|Luís Campelo     |Desenvolvedor|Integração com o banco de dados, desenvolvimento de API's|lc@gmail.com|(31)95555-5555|
 
 > Opções de identificação dos stakeholders:
 > - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
@@ -111,14 +93,12 @@ Possíveis funcionalidades e  recursos: Reconhecimento facial, Análise de Dados
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|Rogério Greco        |                        |               |                     |             |               |
-|Lucas Meira Duque    |                        |               |                     |             |               |
-|João Gabriel Mendonça|                        |               |                     |             |               |
-|Nathália de Carvalho |                        |               |                     |             |               |
-|Luís Campelo     |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+|Rogério Greco        | Que o projeto seja bem planejado e relevante para segurança pública| Alta|Alta| Positivo| A principal parte interessada externa|
+|Lucas Meira Duque    | Que o projeto seja eficiente e escalável|Alta|Alta|Positivo|Responsável geral do projeto|
+|João Gabriel Mendonça|Ser capaz de identificar rapidamente problemas ou mudanças nos requisitos do cliente e trabalhar para ajustar a plataforma conforme necessário|Média|Baixa|Positivo|Canal de comunicação entre o cliente e o projeto|
+|Nathália de Carvalho | Garantir que o software seja desenvolvido com as melhores práticas de segurança, protegendo dados sensíveis e previnindo vulnerabilidades |Média|Média|Positivo|Responsável pela segurança e pelo desenvolvimento do software necessário para o projeto|
+|Luís Campelo     |Desenvolver e manter a integração da plataforma com sistemas externos, como bancos de dados criminais, sistemas de vigilância por vídeo e outros softwares de segurança pública                      |Média|Média|Positivo|Responsável pelo desenvolvimento de software e pela inteegração com o banco de dados|
+
 
 > Opções de avaliação:
 > - Expectativa: descrição da expectativa da parte interessada no projeto.

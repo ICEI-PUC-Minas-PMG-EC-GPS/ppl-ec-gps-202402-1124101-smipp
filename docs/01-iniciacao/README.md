@@ -259,12 +259,12 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 |ID   | Marco do Projeto                                                  | 
 |-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|M-1  | Finalização da instalação do sistema de refrigeração |
+|M-2  | Conclusão da infraestrutura de rede               |
+|M-3  | Finalização da montagem dos Hacks dos servidores                                                              |
+|M-4  | Configuração dos seervidores                                                                  |
+|M-5  | Conclusão integração com o sistema de monitoramento existente                                                |
+|M-6  | Finalização dos testes                                                                  |
 
 ```diff
 + Tarefa 02

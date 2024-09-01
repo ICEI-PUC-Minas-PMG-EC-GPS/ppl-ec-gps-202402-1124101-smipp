@@ -251,8 +251,11 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 |ID    | Descrição do Contra-Escopo          | 
 |------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
+|CE-001| Manutenção do sistema        |
+|CE-002| Instalação do cameras de vigilância |
+|CE-003| Obras de preparação para recebimento dos servidores |
+|CE-004| Sistema de segurança da sala de servidor |
+|CE-005| Treinamento dos responsaveis pela manutenção do servidor |
 
 ### Condições para início do Projeto
 

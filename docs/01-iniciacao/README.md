@@ -148,7 +148,7 @@ Além disso, a integração de tecnologias como o reconhecimento facial e a aná
 | Recursos Humanos        |           |2.000       |150           |300.000      |
 | Hardware                |50 x DHI-IVS-F7500-P-S2 / 5 x Hack servidor / Equipamentos para rede / Refrigeração         |            |              |5.040.000             |
 | Software de terceiros   |Software Dahua Technology (incluso no preço do servidor)           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| **Total Geral**         |           |            |              |5.340.000             |
 
 
 ## Estimativa de Prazo

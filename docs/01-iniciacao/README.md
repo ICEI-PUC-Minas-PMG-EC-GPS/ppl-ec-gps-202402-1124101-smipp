@@ -239,8 +239,11 @@ A tabela a seguir apresenta as restrições do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RE-001| Capacidade de acessar banco de dados de pessoas procuradas | ALTA | 
+|RE-002| Capacidade de acessar banco de dados de pessoas procuradas   | ALTA |
+|RE-003| Capacidade de integrar sistema de monitoramento existente    | ALTA |
+|RE-004| Precisão de desempenho do sistema   | MÉDIA |
+|RE-005| Aceitação e conformidade social   | BAIXA |
 
 
 ### Contra-Escopo

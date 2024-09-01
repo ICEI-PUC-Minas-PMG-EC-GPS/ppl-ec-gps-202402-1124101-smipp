@@ -223,7 +223,10 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
 |RNF-001| O sistema deve ter precisão acima de 90% na identificação de pessoas | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+|RNF-002| O sistema deve ter niveis altos de segurança             | ALTA     |
+|RNF-003| O sistema deve deve ter acesso ao banco de dados de pessoas procuradas             | ALTA     |
+|RNF-004| O sistema deve deve ter acesso ao banco de dados de pessoas desaparecidas             | ALTA     |
+|RNF-005| O sistema deve seguir as conformidades legais             | ALTA     |
 
 
 ### Restrições

@@ -210,10 +210,10 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |RF-004| O sistema deve notificar forças de segurança             | ALTA     |
 |RF-005| O sistema deve identificar armamento             | MÉDIA     |
 |RF-006| O sistema deve emitir analise e relatorios de desempenho              | ALTA     |
-|RF-007| O sistema deve notificar forças de segurança             | ALTA     |
-|RF-008| O sistema deve notificar forças de segurança             | ALTA     |
-|RF-009| O sistema deve notificar forças de segurança             | ALTA     |
-|RF-010| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-007| O sistema deve fornecer uma interface para usuário             | MEDIA     |
+|RF-008| O sistema deve ser capaz de gerenciar perfis             | ALTA     |
+|RF-009| O sistema deve associar alertas com localiades geográficas             | MEDIA     |
+|RF-010| O sistema deve notificar policias próximos da localidae             | BAIXA     |
 
 
 ### Requisitos Não Funcionais

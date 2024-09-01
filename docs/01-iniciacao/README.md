@@ -145,7 +145,7 @@ Além disso, a integração de tecnologias como o reconhecimento facial e a aná
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
+| Recursos Humanos        |           |2.000       |150           |300.000      |
 | Hardware                |           |            |              |             |
 | Serviços de Rede        |           |            |              |             |
 | Hospedagem e Nuvem      |           |            |              |             |
@@ -168,8 +168,8 @@ Além disso, a integração de tecnologias como o reconhecimento facial e a aná
 > * Data de término
 
 * Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Data de início: 01 / 09 / 2024
+* Data de término: 20 / 12 / 2024
 
 ## Escopo Preliminar e Premissas
 

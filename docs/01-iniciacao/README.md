@@ -133,7 +133,9 @@ Além disso, a integração de tecnologias como o reconhecimento facial e a aná
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto de implementação de um sistema de reconhecimento facial exige um investimento inicial em câmeras, servidores, software e infraestrutura de rede. Embora o custo seja elevado, os benefícios justificam o investimento.
+
+As principais vantagens incluem maior segurança através da rápida identificação de indivíduos suspeitos, redução de custos operacionais pela automação de processos de vigilância e controle de acesso, e melhoria na eficiência e na experiência do usuário em locais de grande fluxo.
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 

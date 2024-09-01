@@ -262,8 +262,11 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 |ID    | Descrição de Condições para Início do Projeto    | 
 |------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+|CI-001| Definição clara dos objetivos |
+|CI-002| Aprovação Orçamentária |
+|CI-003| Conformidade Legal e Regulatória|
+|CI-004|Disponibilidade de Infraestrutura|
+|CI-005|Recrutamento de profissionais competentes| 
 
 ## Marcos Agendados e Entregas
 

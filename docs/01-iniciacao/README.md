@@ -206,7 +206,7 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |------|-----------------------------------------|-------|
 |RF-001| O sistema deve identificar pessoas procuradas | ALTA     | 
 |RF-002| O sistema deve identificar pessoas desaparecidas| MÉDIA     |
-|RF-003| O sistema deve identificar atividades suspeitas             || ALTA     |
+|RF-003| O sistema deve identificar atividades suspeitas             | ALTA     |
 |RF-004| O sistema deve notificar forças de segurança             | ALTA     |
 |RF-005| O sistema deve identificar armamento             | MÉDIA     |
 |RF-006| O sistema deve emitir analise e relatorios de desempenho              | ALTA     |

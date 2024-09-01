@@ -202,12 +202,12 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| O sistema deve identificar pessoas procuradas e desaparecidas | ALTA     | 
-|RF-002| O sistema deve identificar atividades suspeitas             | MÉDIA     |
-|RF-003| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-001| O sistema deve identificar pessoas procuradas | ALTA     | 
+|RF-002| O sistema deve identificar pessoas desaparecidas| MÉDIA     |
+|RF-003| O sistema deve identificar atividades suspeitas             || ALTA     |
 |RF-004| O sistema deve notificar forças de segurança             | ALTA     |
-|RF-005| O sistema deve notificar forças de segurança             | ALTA     |
-|RF-006| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-005| O sistema deve identificar armamento             | MÉDIA     |
+|RF-006| O sistema              | ALTA     |
 |RF-007| O sistema deve notificar forças de segurança             | ALTA     |
 |RF-008| O sistema deve notificar forças de segurança             | ALTA     |
 |RF-009| O sistema deve notificar forças de segurança             | ALTA     |
@@ -222,7 +222,7 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve  | MÉDIA     | 
+|RNF-001| O sistema deve ter precisão acima de 90% na identificação de pessoas | MÉDIA     | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
 
 

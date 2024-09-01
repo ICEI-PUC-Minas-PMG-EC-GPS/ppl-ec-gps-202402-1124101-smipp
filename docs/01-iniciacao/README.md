@@ -202,8 +202,17 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve identificar pessoas procuradas e desaparecidas | ALTA     | 
+|RF-002| O sistema deve identificar atividades suspeitas             | MÉDIA     |
+|RF-003| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-004| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-005| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-006| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-007| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-008| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-009| O sistema deve notificar forças de segurança             | ALTA     |
+|RF-010| O sistema deve notificar forças de segurança             | ALTA     |
+
 
 ### Requisitos Não Funcionais
 
@@ -213,7 +222,7 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 |ID     | Descrição do Requisito                                            |Prioridade |
 |-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
+|RNF-001| O sistema deve  | MÉDIA     | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
 
 

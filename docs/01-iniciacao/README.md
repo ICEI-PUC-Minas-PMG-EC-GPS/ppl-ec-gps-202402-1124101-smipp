@@ -156,18 +156,12 @@ Além disso, a integração de tecnologias como o reconhecimento facial e a aná
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
 > Indique:
 > * Prazo previsto (em horas) 
 > * Data de início
 > * Data de término
 
-* Prazo previsto (em horas): XX horas
+* Prazo previsto (em horas): 2000
 * Data de início: 01 / 09 / 2024
 * Data de término: 20 / 12 / 2024
 

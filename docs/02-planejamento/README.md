@@ -48,7 +48,7 @@
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
-![Estrutura Analítica do Projeto](images/exemplo_wbs.png)
+![Estrutura Analítica do Projeto](images/EAP.jpeg)
 
 > Softwares recomendados: 
 > * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)

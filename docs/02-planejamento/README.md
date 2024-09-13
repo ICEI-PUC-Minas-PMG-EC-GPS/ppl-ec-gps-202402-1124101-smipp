@@ -28,31 +28,32 @@
 
 # Escopo do Projeto
 
-Declaração de Escopo
-Projeto: Smipp
-Gerente do Projeto: Lucas Meira
-Objetvo do projeto (em uma frase)
-Desenvolver uma plataforma integrada de reconhecimento facial e análise comportamental que permita às forças de segurança identificar e responder rapidamente a crimes em andamento, melhorar a gestão de dados criminais e auxiliar na localização de pessoas desaparecidas.
+| Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
+|-----------------|-----------------|---------------|-------------|-------------|
+|Rogério Greco    |Secretário de Segurança Pública de Minas Gerais |Cliente |rg@gmail.com|(31)91111-1111|
 
-Escopo do projeto/produto (etapas do ciclo de vida e objetivo de cada uma)
-O projeto propõe a criação de uma plataforma que utiliza reconhecimento facial e análise de dados comportamentais para identificar criminosos procurados, detectar assaltos em andamento e localizar pessoas desaparecidas. O propósito é fornecer uma ferramenta que apoie as forças de segurança pública, notificando-as em tempo real sempre que uma dessas ocorrências for identificada. O sistema será capaz de associar uma localização geográfica à ocorrência, utilizando a posição da câmera, e alertará os oficiais mais próximos.   
-
+|Declaração de Escopo|
+|--------------------|
+|Projeto: Smipp|
+|Gerente do Projeto: Lucas Meira|
+|#Objetvo do projeto (em uma frase):|
+|Desenvolver uma plataforma integrada de reconhecimento facial e análise comportamental que permita às forças de segurança identificar e responder rapidamente a crimes em andamento, melhorar a gestão de dados criminais e auxiliar na localização de pessoas desaparecidas.
+|#Escopo do projeto/produto (etapas do ciclo de vida e objetivo de cada uma):|
+|O projeto propõe a criação de uma plataforma que utiliza reconhecimento facial e análise de dados comportamentais para identificar criminosos procurados, detectar assaltos em andamento e localizar pessoas desaparecidas. O propósito é fornecer uma ferramenta que apoie as forças de segurança pública, notificando-as em tempo real sempre que uma dessas ocorrências for identificada. O sistema será capaz de associar uma localização geográfica à ocorrência, utilizando a posição da câmera, e alertará os oficiais mais próximos.
 A plataforma contará também com uma interface para o usuário, gerenciamento de perfis de acesso, e funcionalidades para gerar relatórios de desempenho, permitindo a avaliação da eficiência do sistema após as ocorrências.
-
-Após a implementação, o sistema passará por uma fase de testes, incluindo a operação assistida com a plataforma funcionando em sua plena capacidade.
-Limites do projeto (o que não será feito)
-Manutenção do sistema
-Instalação do câmeras de vigilância
-Obras de preparação para recebimento dos servidores
-Sistema de segurança da sala de servidor
-Treinamento dos responsáveis pela manutenção do servidor
-
-Restrições (o que restringe/condiciona o projeto)
-Capacidade de acessar banco de dados de pessoas procuradas
-Capacidade de acessar banco de dados de pessoas desaparecidas
-Capacidade de integrar sistema de monitoramento existente
-Precisão de desempenho do sistema
-Aceitação e conformidade social
+Após a implementação, o sistema passará por uma fase de testes, incluindo a operação assistida com a plataforma funcionando em sua plena capacidade.|
+|#Limites do projeto (o que não será feito):|
+|• Manutenção do sistema|
+|• Instalação do câmeras de vigilância|
+|• Obras de preparação para recebimento dos servidores|
+|• Sistema de segurança da sala de servidor|
+|• Treinamento dos responsáveis pela manutenção do servidor|
+|#Restrições (o que restringe/condiciona o projeto):|
+|• Capacidade de acessar banco de dados de pessoas procuradas|
+|• Capacidade de acessar banco de dados de pessoas desaparecidas|
+|• Capacidade de integrar sistema de monitoramento existente|
+|• Precisão de desempenho do sistema|
+|• Aceitação e conformidade social|
 
 Premissas (condições para iniciar o projeto)
 Definição clara dos objetivos

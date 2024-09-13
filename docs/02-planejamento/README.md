@@ -31,6 +31,7 @@
 |Declaração de Escopo|
 |--------------------|
 
+| |
 |--------------------|
 |Projeto: Smipp|
 |Gerente do Projeto: Lucas Meira|

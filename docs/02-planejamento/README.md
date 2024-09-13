@@ -28,13 +28,47 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Declaração de Escopo
+Projeto: Smipp
+Gerente do Projeto: Lucas Meira
+Objetvo do projeto (em uma frase)
+Desenvolver uma plataforma integrada de reconhecimento facial e análise comportamental que permita às forças de segurança identificar e responder rapidamente a crimes em andamento, melhorar a gestão de dados criminais e auxiliar na localização de pessoas desaparecidas.
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
+Escopo do projeto/produto (etapas do ciclo de vida e objetivo de cada uma)
+O projeto propõe a criação de uma plataforma que utiliza reconhecimento facial e análise de dados comportamentais para identificar criminosos procurados, detectar assaltos em andamento e localizar pessoas desaparecidas. O propósito é fornecer uma ferramenta que apoie as forças de segurança pública, notificando-as em tempo real sempre que uma dessas ocorrências for identificada. O sistema será capaz de associar uma localização geográfica à ocorrência, utilizando a posição da câmera, e alertará os oficiais mais próximos.   
+
+A plataforma contará também com uma interface para o usuário, gerenciamento de perfis de acesso, e funcionalidades para gerar relatórios de desempenho, permitindo a avaliação da eficiência do sistema após as ocorrências.
+
+Após a implementação, o sistema passará por uma fase de testes, incluindo a operação assistida com a plataforma funcionando em sua plena capacidade.
+Limites do projeto (o que não será feito)
+Manutenção do sistema
+Instalação do câmeras de vigilância
+Obras de preparação para recebimento dos servidores
+Sistema de segurança da sala de servidor
+Treinamento dos responsáveis pela manutenção do servidor
+
+Restrições (o que restringe/condiciona o projeto)
+Capacidade de acessar banco de dados de pessoas procuradas
+Capacidade de acessar banco de dados de pessoas desaparecidas
+Capacidade de integrar sistema de monitoramento existente
+Precisão de desempenho do sistema
+Aceitação e conformidade social
+
+Premissas (condições para iniciar o projeto)
+Definição clara dos objetivos
+Aprovação Orçamentária
+Conformidade Legal e Regulatória
+Disponibilidade de Infraestrutura
+Recrutamento de profissionais competentes
+
+Marcos agendados e entregas
+Id. do Marco	Entregáveis Previstos
+1. 	Finalização da preparação da infraestrutura
+2. 	Configuração dos servidores
+3. 	Finalização do desenvolvimento do software de análise comportamental
+4. 	Conclusão integração com o sistema de monitoramento existente
+5. 	Fim da operação assistida
+
 
 # Estrutura Analítica do Projeto
 

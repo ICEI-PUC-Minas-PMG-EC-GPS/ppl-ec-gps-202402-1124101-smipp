@@ -72,7 +72,7 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 |Recrutamento de profissionais competentes|
 
 |Marcos agendados e entregas|
-|--------------------|
+
 |Id. do Marco |Entregáveis Previstos|
 |-------------|---------------------|
 |1. 	|Finalização da preparação da infraestrutura|

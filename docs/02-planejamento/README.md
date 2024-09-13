@@ -36,7 +36,7 @@
 |--------------------|
 |Projeto: Smipp|
 |Gerente do Projeto: Lucas Meira|
-|#Objetvo do projeto (em uma frase):|
+|# Objetvo do projeto (em uma frase):|
 |Desenvolver uma plataforma integrada de reconhecimento facial e análise comportamental que permita às forças de segurança identificar e responder rapidamente a crimes em andamento, melhorar a gestão de dados criminais e auxiliar na localização de pessoas desaparecidas.
 |#Escopo do projeto/produto (etapas do ciclo de vida e objetivo de cada uma):|
 |O projeto propõe a criação de uma plataforma que utiliza reconhecimento facial e análise de dados comportamentais para identificar criminosos procurados, detectar assaltos em andamento e localizar pessoas desaparecidas. O propósito é fornecer uma ferramenta que apoie as forças de segurança pública, notificando-as em tempo real sempre que uma dessas ocorrências for identificada. O sistema será capaz de associar uma localização geográfica à ocorrência, utilizando a posição da câmera, e alertará os oficiais mais próximos.

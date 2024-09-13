@@ -71,13 +71,15 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 |Disponibilidade de Infraestrutura|
 |Recrutamento de profissionais competentes|
 
-Marcos agendados e entregas
-Id. do Marco	Entregáveis Previstos
-1. 	Finalização da preparação da infraestrutura
-2. 	Configuração dos servidores
-3. 	Finalização do desenvolvimento do software de análise comportamental
-4. 	Conclusão integração com o sistema de monitoramento existente
-5. 	Fim da operação assistida
+|Marcos agendados e entregas|
+|--------------------|
+|Id. do Marco |Entregáveis Previstos|
+|-------------|---------------------|
+|1. 	|Finalização da preparação da infraestrutura|
+|2. 	|Configuração dos servidores|
+|3. 	|Finalização do desenvolvimento do software de análise comportamental|
+|4. 	|Conclusão integração com o sistema de monitoramento existente|
+|5. 	|Fim da operação assistida|
 
 
 # Estrutura Analítica do Projeto

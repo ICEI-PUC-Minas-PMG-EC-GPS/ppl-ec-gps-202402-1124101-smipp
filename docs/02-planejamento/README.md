@@ -266,7 +266,7 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 |            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+
 
 ### Padrões e Normas Utilizadas
 

@@ -261,7 +261,7 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 |Sistema de refrigeração|             |             |             |             |               |                   |                 |                |
 |Infraestrutura de rede|             |             |             |             |               |                   |                 |                |
 |Montagem dos racks dos servidores|             |             |             |             |               |                   |                 |                |
-|Integração das camêras|             |             |             |             |               |                   |                 |                |
+|Integração das câmera|             |             |             |             |               |                   |                 |                |
 |Software comprado|             |             |             |             |               |                   |                 |                |
 |Software desenvolvido|             |             |             |             |               |                   |                 |                |
 ||             |             |             |             |               |                   |                 |                |

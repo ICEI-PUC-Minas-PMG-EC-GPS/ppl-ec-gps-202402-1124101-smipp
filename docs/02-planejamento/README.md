@@ -258,9 +258,9 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 | Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
 |------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+|Sistema de refrigeração|             |             |             |             |               |                   |                 |                |
+|Infraestrutura de rede |             |             |             |             |               |                   |                 |                |
+|Montagem dos racks dos servidores|             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |

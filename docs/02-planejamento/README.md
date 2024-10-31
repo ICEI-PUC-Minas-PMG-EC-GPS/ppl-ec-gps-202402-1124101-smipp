@@ -264,7 +264,7 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 |Integração das camêras|             |             |             |             |               |                   |                 |                |
 |Software comprado|             |             |             |             |               |                   |                 |                |
 |Software desenvolvido|             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+||             |             |             |             |               |                   |                 |                |
 |            |             |             |             |             |               |                   |                 |                |
 
 

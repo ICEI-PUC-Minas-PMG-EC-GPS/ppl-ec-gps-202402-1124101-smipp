@@ -322,10 +322,7 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 > O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
 > Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
 
-### Documento Editável
-
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos.docx)
+- [Especificação Produto Aquisição - Editável]([artefatos/aquisicao_produtos.docx](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/ppl-ec-gps-202402-1124101-smipp/blob/master/docs/02-planejamento/artefatos/aquisicao_produtos_simipp.docx))
 
 
 ```diff

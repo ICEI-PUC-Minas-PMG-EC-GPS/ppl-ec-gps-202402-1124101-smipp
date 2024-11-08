@@ -322,7 +322,7 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 > O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
 > Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
 
-- [Especificação Produto Aquisição - Editável](aquisicao_produtos_simipp.docx)
+- [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos_simipp.docx)
 
 
 ```diff

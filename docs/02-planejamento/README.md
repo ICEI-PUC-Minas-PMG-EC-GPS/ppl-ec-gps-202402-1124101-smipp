@@ -381,18 +381,21 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 > Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
+- - Microsoft Teams
+  - Gmail
+  - Discord
 - Papéis:
-- - ...
-  - ...
-  - ...
+- - Gerente do Projeto
+  - Gerente da Equipe
+  - Participantes da equipe
 - Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+- - Relevância: Focar em temas e informações que tenham valor para o público-alvo, evitando a dispersão em tópicos que não agregam. Ao priorizar o que é importante para os destinatários, o comunicador mostra respeito pelo tempo e interesse do público, aumentando o engajamento e o impacto da mensagem.
+  - Acessibilidade: As informações devem ser estruturadas e disponibilizadas de forma a serem acessíveis a todos os públicos-alvo, incluindo aqueles com necessidades especiais ou conhecimentos limitados sobre o tema. Isso inclui a adoção de formatos inclusivos e linguagem adaptada para diferentes perfis, promovendo a igualdade no acesso à informação.
+  - Transparência: A comunicação deve ser honesta e aberta, compartilhando informações relevantes sem omitir detalhes importantes. Isso ajuda a construir confiança com o público e a evitar mal-entendidos, já que as informações são apresentadas de maneira completa e acessível, permitindo ao receptor ter uma visão clara da situação.
+  - Consistência: As mensagens devem ser coerentes ao longo do tempo e entre diferentes canais de comunicação, mantendo a uniformidade no tom, estilo e conteúdo. A consistência reforça a identidade da organização e evita contradições, facilitando o entendimento e aumentando a credibilidade junto ao público.
+  - Proatividade: Antecipar dúvidas e problemas potenciais para se comunicar de forma a prevenir mal-entendidos e incertezas. Uma comunicação proativa antecipa informações importantes e busca responder a perguntas antes que elas sejam formuladas, demonstrando preparo e atenção às necessidades do público.
+  - Responsabilidade: Reconhecer o impacto das informações transmitidas e garantir que elas sejam precisas e verificadas antes da divulgação. O compromisso com a responsabilidade evita a disseminação de informações equivocadas, reforçando a credibilidade e a confiança do público na comunicação.
+  - Empatia: Colocar-se no lugar do destinatário, considerando seu contexto, necessidades e possíveis dificuldades para interpretar a mensagem. A empatia permite a construção de uma comunicação que respeita e valoriza o público, tornando a mensagem mais receptiva e humanizada.
 
 ```diff
 + Tarefa 11:

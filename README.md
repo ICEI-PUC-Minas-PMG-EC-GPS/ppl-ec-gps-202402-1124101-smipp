@@ -1,4 +1,4 @@
-![ICEI](images/icei-pucminas.png)
+^![ICEI](images/icei-pucminas.png)
 
 # Nome do projeto
 
@@ -8,7 +8,7 @@
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
+* Luís Felipe Henrique Campelo (https://github.com/maroelo)
 * [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)

@@ -9,7 +9,7 @@
 ## Alunos integrantes da equipe
 
 * Luís Felipe Henrique Campelo (https://github.com/maroelo)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
+* Lucas Meira Duque (https://github.com/lucasmeiraduque)
 * [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
 * [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)

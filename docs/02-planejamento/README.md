@@ -350,17 +350,17 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 | Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
 |------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
+| Ata de reunião                     |Funcionarios  |Grupo Whatsapp e Email|Semanalmente |Lucas Meira|
+| Declaração de escopo               |Funcionarios|Email |Mensalmente |Luís Felipe |
+| WBS                                |Desenvolvedores|Email |Semanalmente|Nathalia de carvalho|
+| Dicionário da WBS                  |Desenvolvedores |Whatsapp e Email|Mensalmente|Nathalia de carvalho|
+| Cronograma                         |Funcionarios |Grupo Whatsapp e Email |Sob demanda|Lucas Meira|
+| Lista de Riscos                    |StakeHolders|Email |Sob demanda|João Gabriel|
+| Plano de qualidade                 |StakeHolders|Email|Sob demanda|João Gabriel|
+| Plano de projeto                   |StakeHolders|Email |Sob demanda|João Gabriel|
+| Relatório de Progresso             |StakeHolders|Email|Mensalmente|Lucas Meira|
+| Relatório de Aderência ao Processo |StakeHolders|Email|Mensalmente|Lucas Meira|
+| Checklists de Inspeção             |StakeHolders|Email|Mensalmente|Lucas Meira|
 |                                    |              |                  |             |             |
 |                                    |              |                  |             |             |
 |                                    |              |                  |             |             |

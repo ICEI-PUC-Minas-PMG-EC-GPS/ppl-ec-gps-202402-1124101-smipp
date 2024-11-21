@@ -256,16 +256,16 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 ### Artefatos a serem verificados
 
-| Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
-|------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|Sistema de refrigeração|             |             |             |             |               |                   |                 |                |
-|Infraestrutura de rede|             |             |             |             |               |                   |                 |                |
-|Montagem dos racks dos servidores|             |             |             |             |               |                   |                 |                |
-|Integração das câmera|             |             |             |             |               |                   |                 |                |
-|Software comprado|             |             |             |             |               |                   |                 |                |
-|Software desenvolvido|             |             |             |             |               |                   |                 |                |
-||             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+| Artefato                        | Tipo Verif.         | Data | Responsável               | Métrica                             | Data Correção | Ação Não Conform.                        | Resp. Avaliação       | Resp. Correção           |
+|---------------------------------|---------------------|------|---------------------------|-------------------------------------|---------------|-------------------------------------------|-----------------------|--------------------------|
+| Sistema de refrigeração         | Inspeção Visual     |      | Engenheiro da computação  | Temperatura estável (≤20°C)         |               | Ajuste da temperatura e reteste          | Gerente de projeto    | Engenheiro da computação |
+| Infraestrutura de rede          | Teste Funcional     |      | Engenheiro da computação  | Latência ≤10 ms                     |               | Revisão de configuração e reteste         | Gerente de projeto    | Engenheiro da computação |
+| Montagem dos racks dos servidores | Inspeção Visual    |      | Engenheiro de software    | Racks bem montados e fixados        |               | Ajuste da montagem e reforço de fixação  | Gerente de projeto    | Engenheiro de software   |
+| Integração das câmeras          | Teste Funcional     |      | Desenvolvedor             | Sincronização correta               |               | Reajuste do sistema e nova integração     | Engenheiro de software | Desenvolvedor           |
+| Software comprado               | Revisão Documental  |      | Gerente de projeto        | Conformidade com licenciamento      |               | Revisão do contrato e ajuste nas configurações de uso | Engenheiro de software | Gerente de projeto      |
+| Software desenvolvido           | Teste de Software   |      | Desenvolvedor             | Ausência de erros críticos          |               | Correção de bugs identificados           | Engenheiro de software | Desenvolvedor           |
+| Funcionários                    | Treinamento e Avaliação | | Gerente de projeto        | Conhecimento operacional            |               | Sessão de reciclagem e treinamento adicional | Engenheiro de software | Gerente de projeto      |
+
 
 
 ### Padrões e Normas Utilizadas

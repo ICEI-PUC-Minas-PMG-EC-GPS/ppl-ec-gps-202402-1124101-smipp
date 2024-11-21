@@ -272,38 +272,39 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 | Nome       | Descrição   | 
 |------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+| ISO 9001   | Padrão internacional para sistemas de gestão da qualidade, garantindo conformidade e melhoria contínua. |
+| IEEE 730   | Norma para garantir a qualidade no desenvolvimento de software, definindo critérios e processos. |
+| ITIL       | Conjunto de boas práticas para gerenciamento de serviços de TI, focado em qualidade e eficiência. |
+| ANSI/TIA-942 | Padrão para infraestrutura de data centers, incluindo redes e segurança. |
+| COBIT      | Framework para governança e gerenciamento de TI, garantindo alinhamento entre tecnologia e negócios. |
 
 ### Ambiente das Atividades de Qualidade
 
-| Ambiente   | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+| Ambiente               | Descrição   | 
+|------------------------|-------------|
+| Laboratório de Testes  | Espaço controlado para execução de testes funcionais, incluindo verificação de software e hardware. |
+| Sala de Servidores     | Local físico onde os racks, sistema de refrigeração e integração de redes serão inspecionados. |
+| Escritório de Projetos | Área destinada à análise documental, revisão de contratos e elaboração de relatórios de qualidade. |
+| Ambiente de Simulação  | Plataforma virtual para simular operações e testar o desempenho do software desenvolvido. |
 
 ### Equipe de Qualidade
 
-| Nome       | Responsabilidade | 
-|------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
+| Nome                   | Responsabilidade | 
+|------------------------|------------------|
+| Gerente de Projeto     | Supervisionar todas as atividades de qualidade, gerenciar equipe e garantir conformidade geral. |
+| Engenheiro de Software | Realizar testes de software, garantir ausência de erros e documentar resultados. |
+| Engenheiro da Computação | Validar a infraestrutura técnica, incluindo rede, refrigeração e montagem de servidores. |
+| Desenvolvedor          | Implementar correções e garantir que o software atenda aos requisitos de qualidade definidos. |
+
 
 ### Metodologias de Qualidade Utilizadas
 
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+| Nome           | Descrição   | 
+|----------------|-------------|
+| PDCA           | Ciclo de melhoria contínua baseado em Planejar, Fazer, Checar e Agir para garantir qualidade nos processos. |
+| Scrum          | Metodologia ágil focada em iterações e feedback contínuo, garantindo entregas com alta qualidade. |
+| Teste de Stress | Método utilizado para avaliar a estabilidade da infraestrutura em condições extremas. |
+| Revisão por Pares | Inspeção de código e documentação por outros membros da equipe para identificar possíveis falhas. |
 
 ```diff
 + Tarefa 09:

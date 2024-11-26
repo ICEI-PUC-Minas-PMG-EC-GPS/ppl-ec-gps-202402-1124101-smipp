@@ -10,9 +10,9 @@
 
 * Luís Felipe Henrique Campelo (https://github.com/maroelo)
 * Lucas Meira Duque (https://github.com/lucasmeiraduque)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
+* Nathália de Carvalho Oliveira Cunha Guimarães (https://github.com/nathcocg)
 * [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* 
 
 ## Professor responsável
 

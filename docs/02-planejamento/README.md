@@ -96,7 +96,6 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
 > Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
@@ -353,8 +352,8 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 |------------------------------------|--------------|------------------|-------------|-------------|
 | Ata de reunião                     |Funcionarios  |Grupo Whatsapp e Email|Semanalmente |Lucas Meira|
 | Declaração de escopo               |Funcionarios|Email |Mensalmente |Luís Felipe |
-| WBS                                |Desenvolvedores|Email |Semanalmente|Nathalia de carvalho|
-| Dicionário da WBS                  |Desenvolvedores |Whatsapp e Email|Mensalmente|Nathalia de carvalho|
+| WBS                                |Desenvolvedores|Email |Semanalmente|Nathália de Carvalho|
+| Dicionário da WBS                  |Desenvolvedores |Whatsapp e Email|Mensalmente|Nathália de Carvalho|
 | Cronograma                         |Funcionarios |Grupo Whatsapp e Email |Sob demanda|Lucas Meira|
 | Lista de Riscos                    |StakeHolders|Email |Sob demanda|João Gabriel|
 | Plano de qualidade                 |StakeHolders|Email|Sob demanda|João Gabriel|
@@ -425,18 +424,19 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 > Você pode utilizar como referência o seguinte documento:
 - [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
-| Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
-|---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
+## Gerenciamento de Riscos do Projeto
+
+| **Categoria do Risco**       | **Descrição do Risco**                                                                  | **Impacto**   | **Risco**    | **Medidas de Prevenção**                                                                        | **Medidas de Contingência**                                                             |
+|-------------------------------|------------------------------------------------------------------------------------------|---------------|--------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| **Aquisição de Produtos**     | As imagens capturadas pelas câmeras estão fora de padrão ou ilegíveis.                   | Médio         | Médio        | Verificar a compatibilidade das câmeras com o sistema e realizar testes regulares.           | Substituir equipamentos defeituosos e ajustar padrões de imagem no sistema.           |
+| **Infraestrutura**            | Falha ao estabelecer conexão com o banco de dados.                                      | Alto          | Alto         | Implementar redundância no servidor e realizar backups periódicos.                           | Utilizar uma instância secundária ou restaurar os dados de um backup recente.         |
+| **Segurança da Informação**   | Sistema sofre invasão, comprometendo a integridade dos dados.                           | Alto          | Alto         | Implementar firewalls, criptografia de dados e autenticação multifator.                      | Acionar plano de resposta a incidentes e restaurar sistemas a partir de backups.      |
+| **Tecnologia**                | O sistema não consegue identificar corretamente os rostos ou comportamentos.            | Médio         | Médio        | Treinar os modelos de IA com dados mais precisos e realizar atualizações periódicas.         | Realizar ajustes manuais nos modelos ou retornar para análise humana.                 |
+| **Comunicação**               | Dados ou alertas não são enviados corretamente para as autoridades.                     | Alto          | Alto         | Testar a integração regularmente e garantir redundância nos canais de comunicação.           | Enviar informações por canais alternativos, como e-mails ou chamadas manuais.         |
+| **Infraestrutura**            | Falha ao estabelecer conexão com as câmeras.                                           | Alto          | Alto         | Garantir manutenção preventiva das conexões e equipamentos.                                  | Configurar rotas alternativas ou substituir os dispositivos.                          |
+| **Tecnologia**                | Atividades suspeitas não são detectadas pelo sistema.                                   | Alto          | Alto         | Melhorar os algoritmos de análise comportamental com dados atualizados e mais variados.      | Complementar a análise com supervisão humana.                                         |
+| **Infraestrutura**            | Falta de energia elétrica interrompe o funcionamento do sistema.                        | Alto          | Alto         | Implementar sistemas de energia ininterrupta (UPS) e fontes alternativas de energia.         | Utilizar geradores ou migrar temporariamente para soluções em nuvem.                  |
+
 
 > Indique:
 > Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*

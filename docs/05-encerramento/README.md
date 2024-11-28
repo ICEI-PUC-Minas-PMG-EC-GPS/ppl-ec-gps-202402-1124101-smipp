@@ -22,11 +22,15 @@
 
 # Encerramento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1.	Objetivo do projeto
+O projeto tem como objetivo desenvolver uma plataforma integrada de reconhecimento facial e análise comportamental que permita às forças de segurança identificar e responder rapidamente a crimes em andamento, melhorar a gestão de dados criminais e auxiliar na localização de pessoas desaparecidas.
 
-> O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
-> Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
-> O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto. 
+2.	Resumo do projeto
+O projeto resultou no desenvolvimento de uma solução tecnológica composta por um sistema de reconhecimento facial integrado a câmeras de vigilância, um módulo de análise comportamental para detecção de atividades suspeitas e um sistema de notificações e alertas em tempo real. Durante o desenvolvimento, foram realizadas atividades como levantamento de requisitos, modelagem arquitetural, prototipação, implementação de algoritmos de inteligência artificial e testes de validação em cenários simulados.
+
+3.	Artefatos entregues
+Como solução para os problemas identificados, o projeto entregou um software de reconhecimento facial baseado em aprendizado de máquina, capaz de identificar rostos em tempo real, e um módulo de análise comportamental que monitora padrões de comportamento e detecta atividades suspeitas. Foi desenvolvido também um banco de dados para armazenamento e consulta de informações sobre criminosos e pessoas desaparecidas, além de um sistema integrado de notificações e alertas que permite a comunicação em tempo real com as forças de segurança. A solução inclui ainda documentação técnica detalhada, como especificações de requisitos, modelagem de processos e arquitetura do sistema, bem como um protótipo funcional da interface do usuário para interação operacional.
+
 
 
 # Lições Aprendidas 

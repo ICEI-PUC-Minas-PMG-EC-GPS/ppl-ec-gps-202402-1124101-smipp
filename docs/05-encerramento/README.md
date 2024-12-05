@@ -35,6 +35,4 @@ Como solução para os problemas identificados, o projeto entregou um software d
 
 # Lições Aprendidas 
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 O projeto SMIPP - Sistema de Monitoramento e Identificação de Pessoas Procuradas teve sucesso com metodologias ágeis e sprints bem planejadas, garantindo entregas alinhadas. No entanto, desafios na integração dos módulos e no levantamento de requisitos destacaram a necessidade de maior planejamento e checkpoints. Ferramentas colaborativas ajudaram no alinhamento, mas a documentação precisa ser aprimorada. Essas lições serão úteis para futuros projetos.

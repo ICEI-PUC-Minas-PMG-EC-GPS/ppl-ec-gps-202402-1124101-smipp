@@ -11,9 +11,6 @@
 - [Fase de Encerramento](#encerramento)
 - [Encerramento do Projeto](#encerramento-do-projeto)
 - [Lições Aprendidas](#lições-aprendidas)
-- [Auto-avaliação](#auto)
-- [Sugestões e Críticas](#sugestões-e-críticas)
-
 ----
 ```diff
 + Tarefa 13:

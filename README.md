@@ -1,6 +1,6 @@
 ^![ICEI](images/icei-pucminas.png)
 
-SMIPP - Sistema de Monitoramento e Identificação de Pessoas Procuradas 
+* SMIPP - Sistema de Monitoramento e Identificação de Pessoas Procuradas 
 
 O projeto propõe o desenvolvimento de uma plataforma avançada de segurança pública baseada em tecnologias de reconhecimento facial e análise de dados comportamentais. Seu principal objetivo é auxiliar as forças de segurança na identificação de criminosos e na detecção de assaltos em andamento, contribuindo para a redução da criminalidade e o aumento da eficiência das operações. A plataforma utilizará inteligência artificial para analisar padrões faciais e comportamentais, cruzando informações em tempo real com um banco de dados de criminosos e pessoas desaparecidas, permitindo uma resposta rápida e direcionada às ocorrências.
 

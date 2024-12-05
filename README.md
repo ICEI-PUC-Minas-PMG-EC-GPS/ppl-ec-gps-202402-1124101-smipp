@@ -19,11 +19,6 @@ A justificativa do projeto está no crescente avanço da tecnologia aplicada à 
 
 ## Gerenciamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
-
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
-
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
 2. [Planejamento](docs/02-planejamento)

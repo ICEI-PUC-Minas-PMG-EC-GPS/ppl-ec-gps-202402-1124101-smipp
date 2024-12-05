@@ -130,7 +130,6 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
@@ -193,7 +192,6 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 # Orçamento do Projeto
 
-......  DESCREVA EM LINHAS GERAIS O ORÇAMENTO DO SEU PROJETO AQUI ......
 
 > O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
 > O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
@@ -225,7 +223,6 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 ## Plano de Qualidade
 
-...... DESCREVA SUCINTAMENTE O PLANO DE QUALIDADE UTILIZADO NO PROJETO ......
 
 > O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
 > Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
@@ -409,7 +406,7 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......   ......
 
 
 > O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 

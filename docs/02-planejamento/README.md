@@ -378,9 +378,11 @@ Após a implementação, o sistema passará por uma fase de testes, incluindo a 
 > Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
 
 - Ferramentas utilizadas:
-- - Microsoft Teams
-  - Gmail
-  - Discord
+- - Microsoft Teams (https://teams.microsoft.com/v2/)
+  - Gmail (https://mail.google.com/)
+  - Discord (https://discord.com)
+  - Whatsapp (https://web.whatsapp.com)
+
 - Papéis:
 - - Gerente do Projeto
   - Gerente da Equipe

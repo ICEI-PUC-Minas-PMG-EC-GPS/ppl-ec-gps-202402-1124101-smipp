@@ -27,13 +27,6 @@ Fases do Gerenciamento do Projeto:
 5. [Encerramento](docs/05-encerramento)
 
 ## Apresentação do Trabalho
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Adicione aqui o vídeo explicativo do trabalho.
-> Utilize a estrutura (link) abaixo para apresentação do vídeo.
-> O vídeo deve ser postado obrigatoriamente de forma pública no Youtube ou qualquer outra plataforma 
-
-> A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
+https://drive.google.com/file/d/1s19agGH-b2KF8J_wm5kpB23RCRV1sw6b/view?usp=sharing
 
 [![Imagem do Trabalho](images/pucminas-video-youtube.jpg)](https://www.youtube.com/watch?v=unq_cZ6NOwk)
